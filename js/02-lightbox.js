@@ -17,7 +17,7 @@ function creatingMarkup(gallery) {
 }
 let gallery = new SimpleLightbox('.gallery a',
 {
-   captionData: 'alt',
+   captionsData: 'alt',
    captionDelay: 250,
    scrollZoomFactor: 0.1,
 });
